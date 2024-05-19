@@ -1,12 +1,19 @@
 # Myoelectric Hand Prostheses
 
+![CAD model of the prothesis](/images/prosthesis_split_after_pcb-LQ.png)
 
 ## Disclaimer
 This repository contains work by students studying Automation and Intelligent Systems at NTNU Ålesund for a BSc thesis on a low-cost 3D-printed Myoelectric Hand Prosthesis for the Norwegian market. 
 The goal was to explore feasibility within certain constraints as described more in the full thesis. This repo includes the essential codes and data used in the thesis. The complete thesis is available on the "NTNU Open" platform.
 
 ## Contents
-
+- **/data**: Contains an outline and an example file of the different raw gesture data sorted as explained in the thesis.
+- **/data_combined**: Contains the different datasets used for training and testing the neural network.
+- **/emg_signal_processing**: Contains scripts for processing EMG signals, including filtering, normalization, and feature extraction.
+- **/esp32_code**: Contains the code for the ESP32 microcontroller used to read sensor data and transfer to PC. Used in conjuction with Arduino IDE
+- **/machine_learning_code**: Contains scripts for defining, training, and evaluating machine learning models for gesture recognition.
+- **/preprocessing_code**: Contains scripts for preprocessing raw data: combining CSV files and updating gesture labels.
+- **/realtime_code**: Contains scripts for real-time gesture recognition, including serial data reading, real-time processing, and GUI display.
 
 
 ## Abstract:
