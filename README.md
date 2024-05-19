@@ -1,5 +1,6 @@
 # Myoelectric Hand Prostheses
 
+
 ## Disclaimer
 This repository contains work by students studying Automation and Intelligent Systems at NTNU Ålesund for a BSc thesis on a low-cost 3D-printed Myoelectric Hand Prosthesis for the Norwegian market. 
 The goal was to explore feasibility within certain constraints as described more in the full thesis. This repo includes the essential codes and data used in the thesis. The complete thesis is available on the "NTNU Open" platform.

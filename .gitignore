@@ -1,0 +1,7 @@
+#Ignores for Clion IDE
+cmake-build-*
+.idea
+
+#Ignores for VSCode IDE
+.vscode
+.build
