@@ -13,6 +13,7 @@ This thesis presents the design, development and assessment of a multi-articulat
 - **/machine_learning_code**: Contains scripts for defining, training, and evaluating machine learning models for gesture recognition.
 - **/preprocessing_code**: Contains scripts for preprocessing raw data: combining CSV files and updating gesture labels.
 - **/realtime_code**: Contains scripts for real-time gesture recognition, including serial data reading, real-time processing, and GUI display.
+- **/stm32_code**: Contains the outline of the code for the STM32 microcontroller. Used in conjuction with the STM ecosystem
 
 ## Disclaimer
 This repository contains work by students studying Automation and Intelligent Systems at NTNU Ålesund for a BSc thesis on a low-cost 3D-printed Myoelectric Hand Prosthesis for the Norwegian market. 
