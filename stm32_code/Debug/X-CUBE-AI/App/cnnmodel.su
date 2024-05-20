@@ -1,0 +1,13 @@
+../X-CUBE-AI/App/cnnmodel.c:655:9:cnnmodel_configure_activations	16	static
+../X-CUBE-AI/App/cnnmodel.c:700:9:cnnmodel_configure_weights	16	static
+../X-CUBE-AI/App/cnnmodel.c:757:9:ai_cnnmodel_get_info	160	static
+../X-CUBE-AI/App/cnnmodel.c:804:9:ai_cnnmodel_get_report	160	static
+../X-CUBE-AI/App/cnnmodel.c:851:10:ai_cnnmodel_get_error	16	static
+../X-CUBE-AI/App/cnnmodel.c:858:10:ai_cnnmodel_create	24	static
+../X-CUBE-AI/App/cnnmodel.c:869:10:ai_cnnmodel_create_and_init	88	static
+../X-CUBE-AI/App/cnnmodel.c:904:12:ai_cnnmodel_inputs_get	16	static
+../X-CUBE-AI/App/cnnmodel.c:915:12:ai_cnnmodel_outputs_get	16	static
+../X-CUBE-AI/App/cnnmodel.c:926:11:ai_cnnmodel_destroy	16	static
+../X-CUBE-AI/App/cnnmodel.c:933:9:ai_cnnmodel_init	24	static
+../X-CUBE-AI/App/cnnmodel.c:950:8:ai_cnnmodel_run	24	static
+../X-CUBE-AI/App/cnnmodel.c:958:8:ai_cnnmodel_forward	16	static
